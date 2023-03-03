@@ -14,7 +14,7 @@ module.exports = function (api) {
     ];
 
     if (api.env('test')) {
-        targets = { node: 'current' };
+        targets = { node: 'currentx4' };
         plugins.push('@babel/transform-modules-commonjs');
     }
 
