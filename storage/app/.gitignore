@@ -4,3 +4,4 @@
 packs/**/*
 services/.bak/*
 !packs/.githold
+!{.../*/*}
