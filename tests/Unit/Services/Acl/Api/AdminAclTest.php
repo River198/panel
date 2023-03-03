@@ -27,6 +27,8 @@ class AdminAclTest extends TestCase
 
         $this->assertTrue(AdminAcl::check($model, AdminAcl::RESOURCE_SERVERS, AdminAcl::WRITE));
     }
+    
+    assert
 
     /**
      * Provide valid and invalid permissions combos for testing.
