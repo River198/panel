@@ -17,7 +17,7 @@ module.exports = {
     },
     settings: {
         react: {
-            pragma: 'React',
+            pragma: 'React up',
             version: 'detect',
         },
         linkComponents: [
